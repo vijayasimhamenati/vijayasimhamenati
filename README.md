@@ -2,17 +2,18 @@
 
 ### Software Developer | 2 Years of Professional Experience
 
-I am a passionate developer focused on building scalable, efficient, and user-centric solutions. With two years of hands-on experience in the industry, I have transitioned from foundational coding to architecting robust applications and solving complex backend challenges.
+I am a passionate developer focused on building scalable, efficient, and AI-centric solutions. With 2.5 years of hands-on experience in the industry, I have transitioned from foundational coding to architecting robust applications and solving complex backend challenges.
 
 ---
 
 ### 🚀 Technical Skills
 
 * **Languages:** java,Python, JavaScript, SQL
-* **Frameworks:** Spring boot
-* **Databases:** PostgresSQL
-* **Tools & Cloud:** Git, Github Actions, AWS, Azure, Github Copilot
-* **Concepts:** RESTful APIs, Microservices, Data Structures & Algorithms
+* **Frameworks:** LangChain, LangGraph, LangSmith, Pydantic
+* **Databases:** PostgresSQL, MySQL
+* **Tools & Cloud:** Git, Github, Azure, Github Copilot, PowerBI
+* **Concepts:** RESTful APIs[fastapi], UI[Streamlit], Microservices, Data Structures & Algorithms
+* **
 
 ---
 
@@ -56,5 +57,5 @@ I am a passionate developer focused on building scalable, efficient, and user-ce
 * **Portfolio:** [your-website.com] --->
 
 <div align="center">
-  <sub>Built with ❤️ by VIJAY </sub>
+  <a href="https://www.linkedin.com/in/vijayasimhamenati/" > LinkedIN </a>
 </div>
